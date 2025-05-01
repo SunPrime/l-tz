@@ -66,8 +66,8 @@ console.log(`Расстояние от центра до контр. точки:
 console.log(`Азимут от центра до контр. точки: ${absoluteAzimuthCenterToPointDeg.toFixed(2)}°`);
 console.log(`Азимут от контр. точки до центра: ${bearingPointToCenterDeg.toFixed(2)}°`);
 console.log('--- Координаты центра изображения ---');
-console.log(`Широта: ${centerLatDeg.toFixed(6)}`); // ~50.602910
-console.log(`Долгота: ${centerLonDeg.toFixed(6)}`); // ~30.649342
+console.log(`Широта: ${centerLatDeg.toFixed(6)}`); // ~50.603573
+console.log(`Долгота: ${centerLonDeg.toFixed(6)}`); // ~30.649300
 
 // Форматированный вывод для копирования
 console.log(`\nКоординаты центра: ${centerLatDeg.toFixed(6)}, ${centerLonDeg.toFixed(6)}`);
